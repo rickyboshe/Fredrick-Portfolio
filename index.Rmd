@@ -1,5 +1,5 @@
 ---
-title: "MyLabJournal"
+title: "Fredrick Boshe"
 output: html_document
 ---
 
@@ -17,9 +17,14 @@ output: html_document
 <div class="row" style="padding-top: 30px;">
 <div class="col-sm-6">
 
-# **My Lab Journal**
+# **Profile**
 
-This is a template example for lab journaling. Students in Matt Crump's Human Cognition and Performance Lab will use this template to learn R, and other things. Students can replace this text with more fun things. People not in my lab can use this too.
+Academic backgrounds in Environmental Engineering (undergrad) and Economics and Policy analysis (graduate). 
+Over 2 years working experience in **performance and growth marketing** and an additional 2 years in **customer success operations**.
+<br><br>
+Having worked with data in both roles and in academia, i would like to share some personal data and insight projects here. I believe data is as useful as the insights extracted from it. This portfolio contains recent data projects and content i have worked on and published. 
+
+
 
 ## How to use
 
