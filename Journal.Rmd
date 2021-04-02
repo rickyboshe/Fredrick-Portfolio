@@ -36,5 +36,4 @@ knitr::include_url("images/Graph.html", height = "350px")
 
 2018 | 7 | 23 Last compiled: `r Sys.Date()`
 
-
 **Coming Soon**
