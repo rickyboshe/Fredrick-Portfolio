@@ -1,19 +1,42 @@
 ---
-title: "Resources"
-output: html_document
+title: "Blogs"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    collapsed: false
+    number_sections: false
+    toc_depth: 3
 ---
 
-### R and R-Studio
+Some of the insights i have worked on have ended up as blog posts and stand alone articles. Below are a highlight of some of them. Topics are broad as i have an interest in different topics. 
+<br><br>
+If there is a topic you are looking to gain insights on or collaborate on, feel free to reach out `r emo::ji("v")`.
 
-[R](http://www.r-project.org) is a free open-source programming language that can be used for statistical analysis, data-simulation, graphing, and lots of other stuff. Another free program is [R-studio](http://www.rstudio.com), that provides a nice graphic interface for R. Download R first, then download R-studio. Both can run on PCs, Macs or Linux. Students will be learning R in the stats labs using the lab manual []().
 
-### Additional R resources
+<h3 align="center">
+Conscious consumers: The future
+</h3>
+   
 
-1. Google is great, Google your problem
-2. [Stackoverflow](https://stackoverflow.com) is great, google will often take you there because someone has already asked your question, and someone else has answered, usually many people have answered your question many ways.
-3. Danielle Navarro wrote a [free Psych Stats textbook using R](https://compcogscisydney.org/learning-statistics-with-r/), it's worth checking out (some of our textbook are based on Danielle's)
-4. I am currently writing another stats textbook (incorporating some of the above). You can read it while it's being made right here [https://crumplab.github.io/statistics/](https://crumplab.github.io/statistics/), also check out the lab manual for more specific things about doing various stats in R (also in draft right now) [https://crumplab.github.io/statisticsLab/](https://crumplab.github.io/statisticsLab/)
-5. Daniell Navarro recently made this website for introducing R, it's great, check it out (also made using this R markdown process): [http://compcogscisydney.org/psyr/](http://compcogscisydney.org/psyr/)
-6. Check out my slightly older programming book that also introduces R [https://crumplab.github.io/programmingforpsych/](https://crumplab.github.io/programmingforpsych/)
-7. This is the definitive guide for all things R Markdown (you will find this very useful as you get better at this skill): [https://bookdown.org/yihui/rmarkdown/](https://bookdown.org/yihui/rmarkdown/)
+As Environmental, Social and Governance (ESG) criteria begin to influence, in an increasing amount, investment decisions, how can millennials exploit the same ESG information to help them make more value-based purchasing decisions of consumer goods? Read more `r emo::ji("point_down")`
 
+
+<center>
+[![](images/ESG.PNG)](https://sustainabilityx.co/how-millennial-consumers-can-help-make-the-world-a-better-place-9e4b30ffde52)
+</center>
+
+<br><br>
+
+<h3 align="center">
+Digital regulations: A danger
+</h3>
+
+
+Efforts to increase digital regulations in **Tanzania** will negatively impact around 48% of the population who accessed roughly 93 Billion megabytes of internet data in the last quarter of 2020. Currently, just 1 in 4 people have access to internet services in Sub-Saharan Africa, the lowest of any region in the world. Read more `r emo::ji("point_down")`
+
+<center>
+[![](images/Digital.jpg)](https://www.linkedin.com/pulse/tanzania-does-need-more-digital-barriers-critique-plans-boshe/))
+</center>
+
+<br><br>

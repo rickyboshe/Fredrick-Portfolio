@@ -19,6 +19,8 @@ output: html_document
 
 # **Profile**
 
+![](images/Fredrick.png)
+
 Academic backgrounds in Environmental Engineering (undergrad) and Economics and Policy analysis (graduate). 
 Over 2 years working experience in **performance and growth marketing** and an additional 2 years in **customer success operations**.
 <br><br>
@@ -26,23 +28,26 @@ Having worked with data in both roles and in academia, i would like to share som
 
 
 
-## How to use
+## Areas of Interest
 
-1. fork the repo for this website and follow instructions on read me to get set up. [https://github.com/CrumpLab/LabJournalWebsite](https://github.com/CrumpLab/LabJournalWebsite)
+1. Data for sustainable development. Econometric analysis (including regression and correlation analysis) for environment, energy, agriculture and natural resource management. E.g. Women's Empowerment in Agriculture under Climate Variability Index
 
-2. Blog/journal what you are doing in R, by editing the Journal.Rmd. See the [Journal page](https://crumplab.github.io/LabJournalWebsite/Journal.html) for an example of what to do to get started learning R.
+2. Consumer behavior and insights. Clustering and tracking trends/patterns using consumer data to improve decision-making. E.g. [ESG index and visualization for consumer products](https://sustainabilityx.co/how-millennial-consumers-can-help-make-the-world-a-better-place-9e4b30ffde52)
 
-3. See the [links page](https://crumplab.github.io/LabJournalWebsite/Links.html) for lots of helpful links on learning R.
+3. Personal passion projects at the intersection of circular economy, digital transformation & economy, sport & fitness. E.g. What my Fitbit say about my last 6 months under lockdown
+<br><br>
 
-4. Change everything to make it your own.
+
+##### [View my LinkedIn](https://www.linkedin.com/in/fredrick-boshe/)
+##### [View my Github](https://github.com/rickyboshe)
 
 
 </div>
+<div class="row" style="padding-top: 60px;">
 <div class="col-sm-6">
 
-### [Crump Lab: Human Cognition and Performance](https://crumplab.github.io)
 
-<a href = "https://crumplab.github.io">
-![](images/logo.png)
+
+![](images/Globe.png) [![](images/Scatter.png)](https://rickyboshe.github.io/NYC-Schools/) [![](images/ESG.PNG)](https://sustainabilityx.co/how-millennial-consumers-can-help-make-the-world-a-better-place-9e4b30ffde52)
 </a>
 </div>
