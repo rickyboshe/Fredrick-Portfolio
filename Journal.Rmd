@@ -36,4 +36,5 @@ knitr::include_url("images/Graph.html", height = "350px")
 
 2018 | 7 | 23 Last compiled: `r Sys.Date()`
 
-I'm writing this tutorial going from the top down. And, this is how it will be printed. So, notice the second post is second in the list. If you want your most recent post to be at the top, then make a new post starting at the top. If you want the oldest first, do, then keep adding to the bottom
+
+**Coming Soon**

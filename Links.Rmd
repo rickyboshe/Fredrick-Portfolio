@@ -36,7 +36,7 @@ Digital regulations: A danger
 Efforts to increase digital regulations in **Tanzania** will negatively impact around 48% of the population who accessed roughly 93 Billion megabytes of internet data in the last quarter of 2020. Currently, just 1 in 4 people have access to internet services in Sub-Saharan Africa, the lowest of any region in the world. Read more `r emo::ji("point_down")`
 
 <center>
-[![](images/Digital.jpg)](https://www.linkedin.com/pulse/tanzania-does-need-more-digital-barriers-critique-plans-boshe/))
+[![](images/Digital.jpg)](https://www.linkedin.com/pulse/tanzania-does-need-more-digital-barriers-critique-plans-boshe/)
 </center>
 
 <br><br>
