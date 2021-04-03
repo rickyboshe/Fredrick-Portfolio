@@ -22,7 +22,7 @@ A collection of personal projects that i have worked on. A data(tail) of everyth
 
 2021 | 04 | 01 Last compiled: `r Sys.Date()`
 
-[**This project**](https://rickyboshe.github.io/NYC-Schools/) analyzes the relationship between high school performance and the demographic makeup of schools in New York City. Additionally, a survey of parents, students and teachers perceptions on the quality of schools is analyzed and compared with actual performance. 
+[**This project**](https://rickyboshe.github.io/NYC-web/) analyzes the relationship between high school performance and the demographic makeup of schools in New York City. Additionally, a survey of parents, students and teachers perceptions on the quality of schools is analyzed and compared with actual performance. 
 
 <center>
 ```{r, echo=FALSE, out.width="75%", fig.align="center"}
