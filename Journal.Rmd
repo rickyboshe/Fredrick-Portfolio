@@ -22,7 +22,7 @@ A collection of personal projects that i have worked on. A data(tail) of everyth
 
 2021 | 04 | 01 Last compiled: `r Sys.Date()`
 
-[**This project**](https://rickyboshe.github.io/NYC-web/) analyzes the relationship between high school performance and the demographic makeup of schools in New York City. Additionally, a survey of parents, students and teachers perceptions on the quality of schools is analyzed and compared with actual performance. 
+[**This project**](https://rickyboshe.github.io/projects/index.html) analyzes the relationship between high school performance and the demographic makeup of schools in New York City. Additionally, a survey of parents, students and teachers perceptions on the quality of schools is analyzed and compared with actual performance. 
 
 <center>
 ```{r, echo=FALSE, out.width="75%", fig.align="center"}
@@ -32,8 +32,22 @@ knitr::include_url("images/Graph.html", height = "350px")
 
 <br><br>
 
-# My second post 
+# USA Seafood Analysis
 
-2018 | 7 | 23 Last compiled: `r Sys.Date()`
+2021 | 04 | 13 Last compiled: `r Sys.Date()`
 
-**Coming Soon watch this space** 
+[**This project**](https://rickyboshe.github.io/projects/Fisheries.html) takes a glimpse at Seafood industry in the USA. As more people are opting against red meat diet for plant based and sea food, this might be a good time to analyze aquatic food sources. The [environmental impact](https://www.greenpeace.org.uk/news/why-meat-is-bad-for-the-environment/#:~:text=It%20causes%20climate%20change,the%20atmosphere%2C%20accelerating%20global%20warming) of industrialized red meat production and [health concerns](https://www.nytimes.com/2019/09/30/health/red-meat-heart-cancer.html) has made sea food a favourable alternative diet also termed as ["pescatarian diet"](https://www.medicalnewstoday.com/articles/323907#:~:text=What%20is%20a%20pescatarian%20diet%3F&text=In%20the%20pescatarian%20diet%2C%20a,and%20fish%20products%20may%20enhance). 
+
+This project looks to answer two thing:
+
+1.  Is seafood environmentally sustainable? 
+2.  Does it pack the nutrients to replace red meat diet?
+
+<center>
+```{r, echo=FALSE, out.width="90%", fig.align="center"}
+knitr::include_url("images/fish.html", height = "700px")
+```
+</center>
+
+
+<br></br>
