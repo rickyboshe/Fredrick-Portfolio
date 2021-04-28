@@ -30,11 +30,11 @@ Having worked with data in both roles and in academia, i would like to share som
 
 ## Areas of Interest
 
-1. Data for sustainable development. Econometric analysis (including regression and correlation analysis) for environment, energy, agriculture and natural resource management. E.g. Women's Empowerment in Agriculture under Climate Variability Index
+1. Data for sustainable development. Econometric analysis (including regression and correlation analysis) for environment, energy, agriculture and natural resource management. E.g. Women's Empowerment in Agriculture under Climate Variability Index.
 
 2. Consumer behavior and insights. Clustering and tracking trends/patterns using consumer data to improve decision-making. E.g. [ESG index and visualization for consumer products](https://sustainabilityx.co/how-millennial-consumers-can-help-make-the-world-a-better-place-9e4b30ffde52)
 
-3. Personal passion projects at the intersection of circular economy, digital transformation & economy, sport & fitness. E.g. What my Fitbit say about my last 6 months under lockdown
+3. Personal passion projects at the intersection of circular economy, digital transformation & economy, [wellness](https://rickyboshe.github.io/projects/Fisheries.html) & fitness. E.g. What my Fitbit say about my last 6 months under lockdown
 <br><br>
 
 
@@ -45,8 +45,6 @@ Having worked with data in both roles and in academia, i would like to share som
 </div>
 <div class="row" style="padding-top: 60px;">
 <div class="col-sm-6">
-
-
 
 ![](images/Globe.png) [![](images/Scatter.png)](https://rickyboshe.github.io/NYC-Schools/) [![](images/ESG.PNG)](https://sustainabilityx.co/how-millennial-consumers-can-help-make-the-world-a-better-place-9e4b30ffde52)
 </a>

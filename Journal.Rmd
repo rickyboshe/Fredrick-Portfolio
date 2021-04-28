@@ -25,8 +25,8 @@ A collection of personal projects that i have worked on. A data(tail) of everyth
 [**This project**](https://rickyboshe.github.io/projects/index.html) analyzes the relationship between high school performance and the demographic makeup of schools in New York City. Additionally, a survey of parents, students and teachers perceptions on the quality of schools is analyzed and compared with actual performance. 
 
 <center>
-```{r, echo=FALSE, out.width="75%", fig.align="center"}
-knitr::include_url("images/Graph.html", height = "350px")
+```{r, echo=FALSE, out.width="100%", fig.align="center"}
+knitr::include_url("images/Graph.html")
 ```
 </center>
 
@@ -44,8 +44,8 @@ This project looks to answer two thing:
 2.  Does it pack the nutrients to replace red meat diet?
 
 <center>
-```{r, echo=FALSE, out.width="90%", fig.align="center"}
-knitr::include_url("images/fish.html", height = "700px")
+```{r, echo=FALSE, out.width="100%", fig.align="center"}
+knitr::include_url("images/calories.html", height = "500px")
 ```
 </center>
 

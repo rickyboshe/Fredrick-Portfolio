@@ -40,3 +40,17 @@ Efforts to increase digital regulations in **Tanzania** will negatively impact a
 </center>
 
 <br><br>
+
+<h3 align="center">
+Perceptions: Reality Skewed
+</h3>
+
+If there is one thing this pandemic has laid bare is just how strong public perceptions are often misconstrued as reality. During the pandemic, policymakers, scientists, and news agencies have been trying to shape, change, and influence myriad public perceptions.
+Public perception can be strong, but is it rooted in reality? Do echo chambers end up perpetuating beliefs, even in the face of facts to the contrary?
+Read more `r emo::ji("point_down")`
+
+<center>
+[![](images/perception.jpg)](https://fredrick-boshe.medium.com/how-perceptions-can-miss-out-on-reality-a-data-visualisation-approach-339291576010)
+</center>
+
+<br><br>
