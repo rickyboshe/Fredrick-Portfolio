@@ -39,8 +39,8 @@ knitr::include_url("images/Graph.html")
 [**This project**](https://rickyboshe.github.io/projects/Music.html) combines both *R* and *SQLite* to showcase the robustness of querying data from a database and visualizing observations in R. While some data cleaning and manipulation can and will be done using query language (SQLite), majority of the data work will be done using R. 
 
 <center>
-```{r, echo=FALSE, out.width="84%", fig.align="center"}
-knitr::include_url("images/Music.png", height = "500px")
+```{r, echo=FALSE, out.width="100%", fig.align="center"}
+knitr::include_url("images/music2.html", height = "500px")
 ```
 </center>
 
