@@ -49,3 +49,16 @@ Having worked with data in both roles and in academia, i would like to share som
 ![](images/Globe.png) [![](images/Scatter.png)](https://rickyboshe.github.io/NYC-Schools/) [![](images/ESG.PNG)](https://sustainabilityx.co/how-millennial-consumers-can-help-make-the-world-a-better-place-9e4b30ffde52)
 </a>
 </div>
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=GA_MEASUREMENT_ID">
+</script>
+
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-3BC8ZQBEVD');
+</script>
