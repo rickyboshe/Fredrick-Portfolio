@@ -52,7 +52,7 @@ Having worked with data in both roles and in academia, i would like to share som
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=GA_MEASUREMENT_ID">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-66RWGWWBXX">
 </script>
 
 <script>
@@ -60,5 +60,5 @@ Having worked with data in both roles and in academia, i would like to share som
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-3BC8ZQBEVD');
+  gtag('config', 'G-66RWGWWBXX');
 </script>
