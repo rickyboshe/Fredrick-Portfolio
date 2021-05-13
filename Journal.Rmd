@@ -22,7 +22,7 @@ A collection of personal projects that i have worked on. A data(tail) of everyth
 
 2021 | 04 | 01 Last compiled: `r Sys.Date()`
 
-[**This project**](https://rickyboshe.github.io/projects/index.html) analyzes the relationship between high school performance and the demographic makeup of schools in New York City. Additionally, a survey of parents, students and teachers perceptions on the quality of schools is analyzed and compared with actual performance. 
+[**This project**](https://rickyboshe.github.io/Project-Files/) analyzes the relationship between high school performance and the demographic makeup of schools in New York City. Additionally, a survey of parents, students and teachers perceptions on the quality of schools is analyzed and compared with actual performance. 
 
 <center>
 ```{r, echo=FALSE, out.width="100%", fig.align="center"}
@@ -36,7 +36,7 @@ knitr::include_url("images/Graph.html")
 
 2021 | 03 | 20 Last compiled: `r Sys.Date()`
 
-[**This project**](https://rickyboshe.github.io/projects/Music.html) combines both *R* and *SQLite* to showcase the robustness of querying data from a database and visualizing observations in R. While some data cleaning and manipulation can and will be done using query language (SQLite), majority of the data work will be done using R. 
+[**This project**](https://rickyboshe.github.io/Project-Files/Music.html) combines both *R* and *SQLite* to showcase the robustness of querying data from a database and visualizing observations in R. While some data cleaning and manipulation can and will be done using query language (SQLite), majority of the data work will be done using R. 
 
 <center>
 ```{r, echo=FALSE, out.width="100%", fig.align="center"}
@@ -50,7 +50,7 @@ knitr::include_url("images/music2.html", height = "500px")
 
 2021 | 04 | 13 Last compiled: `r Sys.Date()`
 
-[**This project**](https://rickyboshe.github.io/projects/Fisheries.html) takes a glimpse at Seafood industry in the USA. As more people are opting against red meat diet for plant based and sea food, this might be a good time to analyze aquatic food sources. The [environmental impact](https://www.greenpeace.org.uk/news/why-meat-is-bad-for-the-environment/#:~:text=It%20causes%20climate%20change,the%20atmosphere%2C%20accelerating%20global%20warming) of industrialized red meat production and [health concerns](https://www.nytimes.com/2019/09/30/health/red-meat-heart-cancer.html) has made sea food a favourable alternative diet also termed as ["pescatarian diet"](https://www.medicalnewstoday.com/articles/323907#:~:text=What%20is%20a%20pescatarian%20diet%3F&text=In%20the%20pescatarian%20diet%2C%20a,and%20fish%20products%20may%20enhance). 
+[**This project**](https://rickyboshe.github.io/Project-Files/Fisheries.html) takes a glimpse at Seafood industry in the USA. As more people are opting against red meat diet for plant based and sea food, this might be a good time to analyze aquatic food sources. The [environmental impact](https://www.greenpeace.org.uk/news/why-meat-is-bad-for-the-environment/#:~:text=It%20causes%20climate%20change,the%20atmosphere%2C%20accelerating%20global%20warming) of industrialized red meat production and [health concerns](https://www.nytimes.com/2019/09/30/health/red-meat-heart-cancer.html) has made sea food a favourable alternative diet also termed as ["pescatarian diet"](https://www.medicalnewstoday.com/articles/323907#:~:text=What%20is%20a%20pescatarian%20diet%3F&text=In%20the%20pescatarian%20diet%2C%20a,and%20fish%20products%20may%20enhance). 
 
 This project analyzes two things: how environmentally sustainable is seafood? e.g. is there over-fishing occurring?
 
@@ -70,7 +70,7 @@ knitr::include_url("images/calories.html", height = "500px")
 
 2021 | 04 | 29 Last compiled: `r Sys.Date()`
 
-[**This project**](https://rickyboshe.github.io/projects/Baseball.html) about utilizing the power of SQL to create a database out of several Excel CSV files that exist individually. The goal is to create a database that will house the several CSV files under one roof. This includes creating a database Schema, linking the tables with primary keys and foreign keys.
+[**This project**](https://rickyboshe.github.io/Project-Files/Baseball.html) about utilizing the power of SQL to create a database out of several Excel CSV files that exist individually. The goal is to create a database that will house the several CSV files under one roof. This includes creating a database Schema, linking the tables with primary keys and foreign keys.
 This project will look at Baseball, America’s favorite past time. It looks at game information and stats from a record of over 170,000 games. The games are are chronologically ordered and occur between 1871 and 2016. 
 
 <center>
@@ -85,7 +85,7 @@ knitr::include_url("images/Schema.png", height = "500px")
 
 2021 | 05 | 05 Last compiled: `r Sys.Date()`
 
-[**This project**](https://rickyboshe.github.io/projects/Fitness.html) looks at my past 6 months in Germany, under a pandemic lockdown. Utilizing data from my FitBit collected between October 2020 and March 2021, i explore visually how the pandemic might have affected my activity, sleep and heart rate. 
+[**This project**](https://rickyboshe.github.io/Project-Files/Fitness.html) looks at my past 6 months in Germany, under a pandemic lockdown. Utilizing data from my FitBit collected between October 2020 and March 2021, i explore visually how the pandemic might have affected my activity, sleep and heart rate. 
 
 <center>
 ```{r, echo=FALSE, out.width="100%", fig.align="center"}
