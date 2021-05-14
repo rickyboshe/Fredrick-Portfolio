@@ -22,7 +22,7 @@ output: html_document
 ![](images/Fredrick.png)
 
 Academic backgrounds in Environmental Engineering (undergrad) and Economics and Policy analysis (graduate). 
-Over 2 years working experience in **performance and growth marketing** and an additional 2 years in **customer success operations**.
+Over 2 years working experience in **performance and growth marketing** and an additional 2 years as a **customer success analyst**.
 <br><br>
 Having worked with data in both roles and in academia, i would like to share some personal data and insight projects here. I believe data is as useful as the insights extracted from it. This portfolio contains recent data projects and content i have worked on and published. 
 
