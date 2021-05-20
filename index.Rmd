@@ -46,7 +46,7 @@ Having worked with data in both roles and in academia, i would like to share som
 <div class="row" style="padding-top: 60px;">
 <div class="col-sm-6">
 
-![](images/Globe.png) [![](images/Scatter.png)](https://rickyboshe.github.io/NYC-Schools/) [![](images/ESG.PNG)](https://sustainabilityx.co/how-millennial-consumers-can-help-make-the-world-a-better-place-9e4b30ffde52)
+![](images/Globe.png) [![](images/Scatter.png)](https://rickyboshe.github.io/Project-Files/index.html) [![](images/ESG.PNG)](https://sustainabilityx.co/how-millennial-consumers-can-help-make-the-world-a-better-place-9e4b30ffde52)
 </a>
 </div>
 
