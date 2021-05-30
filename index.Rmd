@@ -2,6 +2,17 @@
 title: "Fredrick Boshe"
 output: html_document
 ---
+<head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-66RWGWWBXX"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-66RWGWWBXX');
+</script>
+</head>
 
 <style type="text/css">
 .title {
@@ -51,14 +62,3 @@ Having worked with data in both roles and in academia, i would like to share som
 </div>
 
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-66RWGWWBXX">
-</script>
-
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-66RWGWWBXX');
-</script>
