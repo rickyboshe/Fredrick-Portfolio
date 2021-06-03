@@ -127,3 +127,18 @@ knitr::include_url("images/fitness1.html", height = "500px")
 knitr::include_url("images/movies.png", height = "455px")
 ```
 </center>
+
+
+<br><br>
+
+# Mental Health (SQL & ML)
+
+2021 | 05 | 20 Last compiled: `r Sys.Date()`
+
+[**This project**](https://rickyboshe.github.io/Machine-Learning/Mental.html) looks into how mental health can be predicted using predictors such as **age**, **family history** and **gender**. I tried to see if remote working (before the pandemic) would also be a predictor of the mental health of the respondents (working in the tech industry). Employing **Logistic Regression**, **Decision Tree** and **Random Forest** techniques to train and test models to predict mental health of respondents.
+
+<center>
+```{r, echo=FALSE, out.width='85%', fig.align="center"}
+knitr::include_url("images/Forest model.png", height = "430px")
+```
+</center>
