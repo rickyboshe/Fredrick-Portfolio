@@ -37,8 +37,8 @@ A collection of personal projects that i have worked on. A data(tail) of everyth
 [**This project**](https://rickyboshe.github.io/Project-Files/) analyzes the relationship between high school performance and the demographic makeup of schools in New York City. Additionally, a survey of parents, students and teachers perceptions on the quality of schools is analyzed and compared with actual performance. 
 
 <center>
-```{r, echo=FALSE, out.width="100%", fig.align="center"}
-knitr::include_url("https://plotly.com/~rickymarvel/1/", height = "500px")
+```{r, echo=FALSE, out.width="85%", fig.align="center"}
+knitr::include_url("images/School2.png", height = "380px")
 ```
 </center>
 
