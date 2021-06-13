@@ -51,8 +51,8 @@ knitr::include_url("https://plotly.com/~rickymarvel/1/", height = "500px")
 [**This project**](https://rickyboshe.github.io/Project-Files/Music.html) combines both *R* and *SQLite* to showcase the robustness of querying data from a database and visualizing observations in R. While some data cleaning and manipulation can and will be done using query language (SQLite), majority of the data work will be done using R. 
 
 <center>
-```{r, echo=FALSE, out.width="100%", fig.align="center"}
-knitr::include_url("https://plotly.com/~rickymarvel/63/", height = "500px")
+```{r, echo=FALSE, out.width="90%", fig.align="center"}
+knitr::include_url("images/Music.png", height = "500px")
 ```
 </center>
 
@@ -71,7 +71,7 @@ Another aspect is: does seafood pack the nutrients to replace meat based diet?
 
 <center>
 ```{r, echo=FALSE, out.width="100%", fig.align="center"}
-knitr::include_url("https://plotly.com/~rickymarvel/53/", height = "500px")
+knitr::include_url("https://datawrapper.dwcdn.net/aie5y/3/", height = "580px")
 ```
 </center>
 
