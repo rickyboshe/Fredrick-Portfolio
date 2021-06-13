@@ -38,7 +38,7 @@ A collection of personal projects that i have worked on. A data(tail) of everyth
 
 <center>
 ```{r, echo=FALSE, out.width="100%", fig.align="center"}
-knitr::include_url("images/Graph.html")
+knitr::include_url("https://plotly.com/~rickymarvel/1/", height = "500px")
 ```
 </center>
 
@@ -52,7 +52,7 @@ knitr::include_url("images/Graph.html")
 
 <center>
 ```{r, echo=FALSE, out.width="100%", fig.align="center"}
-knitr::include_url("images/music2.html", height = "500px")
+knitr::include_url("https://plotly.com/~rickymarvel/63/", height = "500px")
 ```
 </center>
 
@@ -71,7 +71,7 @@ Another aspect is: does seafood pack the nutrients to replace meat based diet?
 
 <center>
 ```{r, echo=FALSE, out.width="100%", fig.align="center"}
-knitr::include_url("images/calories.html", height = "500px")
+knitr::include_url("https://plotly.com/~rickymarvel/53/", height = "500px")
 ```
 </center>
 
@@ -109,7 +109,7 @@ knitr::include_url("images/Schema.png", height = "500px")
 
 <center>
 ```{r, echo=FALSE, out.width="100%", fig.align="center"}
-knitr::include_url("images/fitness1.html", height = "500px")
+knitr::include_url("https://plotly.com/~rickymarvel/41/", height = "500px")
 ```
 </center>
 
@@ -142,3 +142,6 @@ knitr::include_url("images/movies.png", height = "455px")
 knitr::include_url("images/Forest model.png", height = "430px")
 ```
 </center>
+
+
+
