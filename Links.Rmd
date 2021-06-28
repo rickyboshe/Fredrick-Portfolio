@@ -67,3 +67,29 @@ Read more `r emo::ji("point_down")`
 </center>
 
 <br><br>
+
+<h3 align="center">
+Seafood: New Super Food
+</h3>
+
+What we consume has a direct impact on our bodies, on the ecosystem, and on the planet. It is time to make sure our consumption habits have the least negative impact on the ecosystem while still sustaining our nutritional requirements.
+The environmental impact of industrialized red meat production and health concerns make a strong case for seafood a favorable alternative diet.  Read more `r emo::ji("point_down")`
+
+<center>
+[![](images/eating-salmon-and-risotto.jpg)](https://fredrick-boshe.medium.com/three-reasons-why-it-is-time-adopt-a-seafood-diet-70c4438b4cfc)
+</center>
+
+<br><br>
+
+<h3 align="center">
+FitBit: Visualize your Fitness
+</h3>
+
+Being a proud owner of a FitBit Charge 2, which is roughly 5 years old(!?), helped me take a journey towards understanding how the pandemic impacted me. As my life underwent several significant changes (like graduating from my master's program, losing my job, relocating cities etc) all during the pandemic, I suspected the toll was significant to my body. I wanted to get better insights from my FitBit to analyze just how much the pattern was disrupted.  Read more `r emo::ji("point_down")`
+
+<center>
+[![](images/Fitbit-fitness-watch.jpg)](https://uxdesign.cc/using-your-fitbit-to-visualize-your-pandemic-d0e7def15215)
+</center>
+
+<br><br>
+
