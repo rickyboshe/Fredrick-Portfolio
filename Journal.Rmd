@@ -108,8 +108,8 @@ knitr::include_url("images/Schema.png", height = "500px")
 [**This project**](https://rickyboshe.github.io/Project-Files/Fitness.html) looks at my past 6 months in Germany, under a pandemic lockdown. Utilizing data from my FitBit collected between October 2020 and March 2021, i explore visually how the pandemic might have affected my activity, sleep and heart rate. 
 
 <center>
-```{r, echo=FALSE, out.width="100%", fig.align="center"}
-knitr::include_url("https://plotly.com/~rickymarvel/41/", height = "500px")
+```{r, echo=FALSE, out.width="85%", fig.align="center"}
+knitr::include_url("images/fitness2.png", height = "450px")
 ```
 </center>
 
