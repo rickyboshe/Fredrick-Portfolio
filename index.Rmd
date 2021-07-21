@@ -3,6 +3,8 @@ title: "Fredrick Boshe"
 output: html_document
 ---
 <head>
+<meta name="p:domain_verify" content="9841ad514cf4e037416910d580e26ab5"/>
+
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-66RWGWWBXX"></script>
 <script>
